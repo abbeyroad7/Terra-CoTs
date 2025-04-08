@@ -1,4 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import styles from "./styles/images.scss"
 
 export default ((component?: QuartzComponent) => {
   if (component) {

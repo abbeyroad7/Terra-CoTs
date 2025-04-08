@@ -1,0 +1,23 @@
+---
+aliases:
+  - Renroc
+status: in progress
+---
+
+![[Renroc Regalbrook.webp|right|292]]
+
+# Background
+
+An adult changeling from Forgehealm, Renroc had a very poor childhood. Without knowledge of who his parents were and with his changeling abilities, he was forced into a life of crime. This consisted of petty thievery alone, or causing a distraction so that others may perform more heinous crimes with less chance of getting caught. One day when the changeling was 5, he saw a guard and his family on the edge of the slums. He decided to follow them and found where they had lived in Wolfepoint. The changeling took interest in the family, imagining what his life would be like if we was born as the guards son instead of a nobody in Forgehealm. This interest got the better of him when he saw the guards child play alone, farther than home then he was supposed to. The changeling took this opportunity to shift into the child who was roughly his own age and lure the child to the outskirts of Wolfepoint where he took the child’s life.
+
+Having watch the guards family for some time, he snuck in the home of the kid, taking on the identity of Renroc Regalbrook. Renroc had watched the family for a couple months and had understood most of the activities that he would have to do not to draw attention to himself. He found out that his father, (first) Regalbrook, was Captain of the guard for his region of Wolfepoint. His mother, (first) Regalbrook, was a stay at home wife and mother that showered her husband and child with all the love Renroc could imagine. This was the first time Renroc had felt this much affection in his own life, and it was the only reason he was able to endure the guilt from the actions that he had committed. The Regalbrook’s had a history of being guards in Wolfepoint, making them well known in military circles for their diligence and tolerance in an otherwise cruel line of work.
+
+The following year, Renroc started in school, attempting the way of the sword as his fathers had done before him. Unfortunately, Renroc’s skills were not oriented towards the sword like his predecessors. This had caused him to venture out, becoming more skilled with his words, and only scraping by with his swordplay. His talent for wordplay grew and Renroc became interested in playing instruments as well. Renroc tried his best to conform to the life he stole but it wasn’t enough for his father. His father would spend the afternoon with Renroc practicing swordplay. During these sparring sessions, (father) had realized that Renroc was not adept with a longsword. They had sparred some more, letting Renroc use daggers, shortswords, and rapiers which Renroc showed more proficiency with.
+
+Through the years, Renroc became a full fledged Regalbrook, to the point that he had forgotten his own name before taking the mantle from the child he had killed. By the time he was 16 he was going on patrols with the guards, gaining the experience he needed to begin a career that would make his father proud. At this point (father) had gotten promoted to Commander, but would not use his influence to give Renroc a higher rank starting out, believing it to be against the Regalbrook way. Renroc was but a lonely guard and then his life changed when the [[Siege of Aurelia]] happened.
+
+He was considered too inexperienced to be useful on the battlefield, so Renroc was tasked with protecting his Mother, (grandparents), (aunt and little cousins), while his father and uncle prepared to fight. The fighting took over the city for quite some time and by the time it was done, there were too many corpses for either side to see if their loved ones had made it out alive. Renroc hopes that they had found a way to live but after years without hearing from either of them, the chances that they are alive is as slim as the hope still holds.
+
+Since the (siege), (mother) had lost the bright loving attitude that she once had. She turns to her sister in law and parents in law, who have suffered as much as she has. When she looks upon Renroc’s face, she only sees his father who she cared for so much. This feeling of dread and longing that Renroc sees in his mothers eyes is what drives him to seek vengeance. If he can find out what happened to his father, and bring justice to those who started all this pain, maybe his mother will smile at him again. Renroc works as a guard in Wolfepoint but is secretly feeding information to the [[Arcane Liberation Front]] in hopes to get vengeance on those who had brought despair to his family years ago and find his loved ones if they are still alive.
+
+![[pagebreak.webp]]

@@ -5,6 +5,7 @@ import NotFound from "./pages/404"
 import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
 import Head from "./Head"
+import Header from "./Header"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
 import Spacer from "./Spacer"
@@ -19,6 +20,10 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import Icon from "./Icon"
+import SideBody from "./SideBody"
+import SideFooter from "./SideFooter"
+import Outlinks from "./Outlinks"
 
 export {
   ArticleTitle,
@@ -27,6 +32,7 @@ export {
   FolderContent,
   Darkmode,
   Head,
+  Header,
   PageTitle,
   ContentMeta,
   Spacer,
@@ -42,4 +48,8 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  Icon,
+  SideBody,
+  SideFooter,
+  Outlinks,
 }
