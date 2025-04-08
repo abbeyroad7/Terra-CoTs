@@ -1,2 +1,0 @@
-## Info
-The rebellion forces invading Aurelia. They are seeking to establish order and destroy all magic from the lands. Authoritarian in nature, they do not have qualms with slavery, forced curfews, and mandatory conscription. Followers of the God, [[World/Religions/Thalos, God of Order|Thalos]].
