@@ -1,16 +1,23 @@
 ---
-title: Terra Cataclysm of the Shattered
+home: "true"
+landing: "true"
+tags:
+  - dnd
+aliases:
+  - Quartz
+  - Index
 ---
-
 # Welcome to the Lore.
+<font size=4><b>Browse the complex histories of the peoples that reside in the world of Terra.</b></font>
+ 
+<a href="World/Beastiary/Beastiary.md">![[beastiary.webp|center-left|240]]</a>
+<a href="World/Characters/Characters.md">![[characters.webp|left|240]]</a>
+<a href="World/Dictionary/Dictionary.md">![[dictionary.webp|center-left|240]]</a>
 
-Browse the index and learn of the (soon-to-be) complex histories of the peoples that reside within Terra.
-
-1. [[World/Beastiary]]: Details the various types of creatures the party has encountered and logs them here.
-2. [[World/Dictionary]] Defines world-terms and references.
-3. [[World/Factions]] The political landscape in Terra.
-4. [[World/History]] A written archeological record of notable conflicts and their corresponding events.
-5. [[World/Items]] The various items and tools the party has acquired in their adventures.
-6. [[World/Peoples]] A view of all the encountered people and creatures known to the party.
-7. [[World/Quests]] A current and past record of party quests.
-8. [[World//Religions]] A view of the various religions that mold the world of Terra.
+<a href="World/Factions/Factions/Factions.md">![[factions.webp|center-left|240]]</a>
+<a href="World/History/History.md">![[history.webp|left|240]]</a>
+<a href="World/Items/Items.md">![[items.webp|left|240]]</a>
+<a href="World/Quests/Quests.md">![[quests.webp|left|240]]</a>
+<a href="World/Religion/Religion.md">![[religion.webp|left|240]]</a>
+<a href="World/Misc/Misc.md">![[misc.webp|left|240]]</a>
+<a href="World/Memories/Memories.md">![[memories.webp|left|240]]</a>

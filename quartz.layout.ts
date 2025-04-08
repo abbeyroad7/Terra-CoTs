@@ -4,7 +4,9 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+	Component.PageTitle(),
+  ],
   footer: Component.Footer({
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
@@ -36,13 +38,37 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+  ],
+  right: [
+    //Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.Search()),
+    //Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.SideFooter({
+		linksSide: {
+      "-Home": "https://abbeyroad7.github.io/Terra-CoTs/",
+      "-Beastiary": "https://abbeyroad7.github.io/Terra-CoTs/World/Beastiary/Beastiary",
+      "-Characters": "https://abbeyroad7.github.io/Terra-CoTs/World/Characters/Characters",
+      "-Dictionary": "https://abbeyroad7.github.io/Terra-CoTs/World/Dictionary/Dictionary",
+      "-Factions": "https://abbeyroad7.github.io/Terra-CoTs/World/Factions/Factions/Factions",
+      "-History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/History",
+      "-Items": "https://abbeyroad7.github.io/Terra-CoTs/World/Items/Items",
+      "-Quests": "https://abbeyroad7.github.io/Terra-CoTs/World/Quests/Quests",
+      "-Religion": "https://abbeyroad7.github.io/Terra-CoTs/World/Religion/Religion",
+      "-Misc": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Misc",
+      "-Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
+      "-Getting Started": "https://abbeyroad7.github.io/Terra-CoTs/World/Getting-Started/Getting-Started",
+      //"": "https://abbeyroad7.github.io/Terra-CoTs/World//",
+		},
+		})),
+	
+	Component.DesktopOnly(Component.SideBody()),
+	
+  ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+	Component.DesktopOnly(Component.Icon()),
+	Component.DesktopOnly(Component.Graph()),
+	//Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [],
 }

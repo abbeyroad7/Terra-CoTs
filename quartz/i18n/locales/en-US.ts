@@ -63,8 +63,8 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      title: "Under construction",
+      notFound: "This page is under construction, go back to once you came",
     },
     folderContent: {
       folder: "Folder",
