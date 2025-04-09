@@ -17,11 +17,14 @@ This is the landing page for the Items page.
 %% Begin Waypoint %%
 - **Books**
 	- [[The Teachings of the Hand of Scion]]
+- **[[Boons & Curses]]**
+	- [[Seeds of Eidelon]]
 - **Potions**
 	- [[Phylactery of Yappery]]
 - **Spells**
 	- [[Leika's Memory]]
 - **Weapons**
+	- [[Soul Caliber]]
 	- [[Staff of Flowers]]
 
 %% End Waypoint %%
