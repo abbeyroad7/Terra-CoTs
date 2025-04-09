@@ -11,8 +11,9 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Discord": "https://discord.gg/uTk4Dyz8CB",
 	  "Foundry": "https://foundryredirect.com/tcs",
-	  "Memories": "https://abbeyroad7.github.io/Terra-CotS/Memories",
-	  "Session Notes": "https://abbeyroad7.github.io/Terra-CotS/Sessions",
+	  "Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
+	  "History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/History",
+	  "Changelog": "https://abbeyroad7.github.io/Terra-CoTs/Changelog",
     },
   }),
 }
@@ -20,19 +21,38 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ContentMeta(),
-    Component.TagList(),
+  	Component.ArticleTitle(),
+    //Component.Breadcrumbs(),
+    //Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    
-    Component.DesktopOnly(Component.Explorer()),
+    //Component.MobileOnly(Component.Spacer()),
+	
+	Component.DesktopOnly(Component.Icon()),
+	Component.DesktopOnly(Component.Graph()),
+	//Component.DesktopOnly(Component.RecentNotes()),
+    //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.SideFooter({
+		linksSide: {
+      "-Home": "https://abbeyroad7.github.io/Terra-CoTs/",
+      "-Beastiary": "https://abbeyroad7.github.io/Terra-CoTs/World/Beastiary/Beastiary",
+      "-Characters": "https://abbeyroad7.github.io/Terra-CoTs/World/Characters/Characters",
+      "-Dictionary": "https://abbeyroad7.github.io/Terra-CoTs/World/Dictionary/Dictionary",
+      "-Factions": "https://abbeyroad7.github.io/Terra-CoTs/World/Factions/Factions/Factions",
+      "-History": "https://abbeyroad7.github.io/Terra-CoTs/World/History/History",
+      "-Items": "https://abbeyroad7.github.io/Terra-CoTs/World/Items/Items",
+      "-Quests": "https://abbeyroad7.github.io/Terra-CoTs/World/Quests/Quests",
+      "-Religion": "https://abbeyroad7.github.io/Terra-CoTs/World/Religion/Religion",
+      "-Misc": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Misc",
+      "-Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
+      //"": "https://abbeyroad7.github.io/Terra-CoTs/World//",
+    },
+	})),
+    Component.DesktopOnly(Component.SideBody()),
+  
   ],
 }
 
@@ -70,5 +90,4 @@ export const defaultListPageLayout: PageLayout = {
 	Component.DesktopOnly(Component.Graph()),
 	//Component.DesktopOnly(Component.RecentNotes()),
   ],
-  right: [],
 }

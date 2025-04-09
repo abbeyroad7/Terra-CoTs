@@ -1,5 +1,3 @@
-@use "../../styles/variables.scss" as *;
-
 .backlinks {
   position: relative;
   margin-left: -2rem;
@@ -20,16 +18,6 @@
       & > a {
         background-color: transparent;
       }
-    }
-  }
-
-  & > .overflow {
-    &:after {
-      display: none;
-    }
-    height: auto;
-    @media all and not ($desktop) {
-      height: 250px;
     }
   }
 }
