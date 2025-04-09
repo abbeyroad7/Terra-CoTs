@@ -11,7 +11,7 @@ _template: ""
 _templateName: ""
 sticker: emoji//1f4a4
 ---
-![[Chapter 1 - Dusk.svg|center|1024]]
+![[Chapter 1 - Dusk.svg|center|812]]
 
 ![[pagebreak.webp]]
 # Indexed Memories
