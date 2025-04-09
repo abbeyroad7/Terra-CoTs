@@ -10,9 +10,10 @@ _template: ""
 _templateName: ""
 ---
 %% Begin Waypoint %%
-- [[A Faenapping]]
-- [[Investigate Hilda Goldvein's Disappearance]]
-- [[Repair the Lever, Kronk]]
-- [[Vault Retrieval]]
+- [[Celestrian Espionage]]
+- [[Explore Aurelia]]
+- [[Royal Hideout]]
+- [[Seek Celestrian Employment]]
+- [[Supply Run]]
 
 %% End Waypoint %%
