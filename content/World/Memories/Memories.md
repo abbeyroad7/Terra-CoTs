@@ -42,5 +42,6 @@ sticker: emoji//1f4a4
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]]
 
 %% End Waypoint %%

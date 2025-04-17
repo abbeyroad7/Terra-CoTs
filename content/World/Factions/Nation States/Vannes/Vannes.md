@@ -6,4 +6,4 @@ landing: "true"
 
 This is the landing page for Vannes.
 
-%% Begin Waypoint %
+%% Begin Waypoint %%

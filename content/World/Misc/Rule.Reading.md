@@ -9,8 +9,8 @@ Reading books found across Terra will enlighten players to different topics that
 ### Gameplay
 Books can be read during a short or long rest and are completed based on a Progression system predicated on a character's Intelligence.
 
-**Progression: INT * 5**
-Each hour a character is immersed into a book, they will roll an Intelligence check and multiply the value by 5 to calculate their progress.
+**Progression: INT check * hours**
+Each hour a character is immersed into a book, they will roll an Intelligence check and multiply the value by the time spent reading the book to calculate their progress.
 
 Bonuses relevant to the subject material are gained when a book is read in-full and committed into the players' Memory.
 
@@ -22,9 +22,13 @@ Characters are able to expand their memory by improving their Intelligence stat.
 
 **Books that have fallen out of memory will lose their related bonuses, but can be reread with Advantage when rolling the Intelligence check.**
 
+Players will be responsible for remembering which books their characters have read, should they fall out of memory.
+
 ![[Rule.Reading3.webp|center|450]]
 
 ### Reading Effects
 Most books will provide Advantage Rolls when the subject matter of the book is recalled into question. In addition, nonfiction books related to Wilderness or the Arcanum Wars could potentially improve certain character skills such as Survival or History.
+
+Fictional works will typically result in Inspiration if the player can relate to any of the characters in the story.
 
 ![[pagebreak.webp]]
