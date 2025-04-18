@@ -3,7 +3,7 @@ landing: "true"
 cssclasses:
   - customMargin
   - academia
-notes: Known races table / map needs to be updated
+notes: "\n"
 ---
 ![[cultures-races.webp|right]]
 

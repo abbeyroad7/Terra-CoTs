@@ -19,9 +19,9 @@ sticker: emoji//1f4ac
 - [[Guidelines & Rules]]
 - [[Naming Conventions]]
 - [[Player Death]]
-- [[Rule.Cooking]]
-- [[Rule.Exhaustion]]
-- [[Rule.Reading]]
+- **[[Rules]]**
 - [[Useful Videos]]
 
 %% End Waypoint %%
+
+![[Rules]]
