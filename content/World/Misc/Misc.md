@@ -20,6 +20,7 @@ sticker: emoji//1f4ac
 - [[Naming Conventions]]
 - [[Player Death]]
 - [[Rule.Cooking]]
+- [[Rule.Exhaustion]]
 - [[Rule.Reading]]
 - [[Useful Videos]]
 
