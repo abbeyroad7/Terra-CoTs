@@ -46,4 +46,16 @@ In addition to the satiating effects of typical rations, some recipes provide ad
 
 For example, a rare dish may provide additional Inspiration to the party when consumed and some culinary ingredients may provide temporary bonuses in respect to their origin.
 
+Mechanically, any of the following can apply when a dish is eaten:
+##### Positive
+- Temporary skill improvements (increase in movement speed, strength, perception, etc.)
+- Health regeneration
+- Temporary hit points
+- Inspiration
+- Initiative bonus
+##### Negative
+- Exhaustion
+- Take damage
+- Poison effects
+
 ![[pagebreak.webp]]

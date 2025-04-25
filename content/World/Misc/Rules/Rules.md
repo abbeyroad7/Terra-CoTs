@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
-- [[Rule.Cooking]]
-- [[Rule.Exhaustion]]
-- [[Rule.Reading]]
-- [[Rule.Training]]
+- [[Cooking]]
+- [[Exhaustion]]
+- [[Reading]]
+- [[Training]]
 
 %% End Waypoint %%
