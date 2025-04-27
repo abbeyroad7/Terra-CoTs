@@ -1,9 +1,5 @@
 %% Begin Waypoint %%
-- [[Cooking]]
+- **[[Downtime]]**
 - [[Exhaustion]]
-- [[Foraging]]
-- [[Hunting]]
-- [[Reading]]
-- [[Training]]
 
 %% End Waypoint %%
