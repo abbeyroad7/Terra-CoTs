@@ -1,7 +1,6 @@
-![[Rule.Downtime.webp|center]]
+![[Rule.Exhaustion.webp|center]]
 ## Introduction
-
-
+During a short or long rest, players can choose to spend their downtime on various activities to pass the time, outlined below.
 ## Activities
 - Studying
 - Training - Skill improvements

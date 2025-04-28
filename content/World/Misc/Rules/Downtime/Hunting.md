@@ -1,4 +1,4 @@
-![[Rule.Cooking.webp|center]]
+![[Rule.Hunting.webp|center]]
 
 ## Introduction
 Players can extract animal parts to use for crafting weapons, recipes, or for clothing and armor.
