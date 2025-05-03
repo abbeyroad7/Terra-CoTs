@@ -27,10 +27,3 @@ If a player chooses to roll any Hit Dice during a Short Rest, they will not be a
 %% End Waypoint %%
 
 ![[pagebreak.webp]]
-
-Keri: dr. pepper **
-Sarah: Rooster booster, no ice
-Brad: Coke **
-Scott: Coke **
-Christian: lemonade **
-Bailey: 1 splash Cherry pepsi

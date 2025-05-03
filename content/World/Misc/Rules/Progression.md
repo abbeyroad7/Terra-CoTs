@@ -32,4 +32,6 @@ A system predicated on XP and leveling.
 | Walking         | 750    | 1500   | 2250   | 3000   |        |
 | Swimming        | 500    | 1000   | 1500   | 2000   |        |
 | Flying*         | 750    | 1500   | 2250   | 3000   |        |
+
+
 ![[pagebreak.webp]]
