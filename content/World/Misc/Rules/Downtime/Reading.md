@@ -7,7 +7,7 @@ version: "1.0"
 ## Introduction
 Reading books found across Terra will enlighten players to different topics that could prove useful in day-to-day adventuring, or could even inspire them on their most dreary of days.
 ### Gameplay
-Books can be read during a short or long rest and are completed based on a Progression system predicated on a character's Intelligence.
+Books can be read during a short or long rest and are completed based on the [[Progression]] system predicated on a character's Intelligence.
 
 **Progression: INT check * hours**
 Each hour a character is immersed into a book, they will roll an Intelligence check and multiply the value by the time spent reading the book to calculate their progress.

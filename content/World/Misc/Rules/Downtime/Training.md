@@ -7,11 +7,11 @@ version: "1.0"
 # Introduction
 Your character can choose to train and gain improvements to certain skills and character attributes during their [[Downtime]].
 ## Gameplay
-Training will utilize the [[Progression System]].
+Training will utilize the [[Progression]] System.
 
 Training will exclude ability modifiers, with the exception of Strength. It will instead mainly focus on Skills and movement speeds.
-
-Certain Skills will require more XP than others scaling according to their difficulty and bonuses.
+## Mechanics
+Training is to be used to further round out your character, not to exploit specific characteristics for your class. For balancing, skills cannot be improved past a cumulative bonus of (+5).
 
 **For every 1 hour of hands-on training, gain 10 XP * Level.**
 
@@ -21,6 +21,6 @@ Some Skills like History and Religion can also be improved on with our [[Reading
 In addition to the base bonuses that reading provides - if a reading material is relevant to a certain skill, it can also add to a lower XP amount than hands-on training, but still XP nonetheless.
 
 ## Roleplay
-You will need to explain the activity you are doing that centers around a certain skill.
+Explain the activity to improve the skill you are improving.
 
 ![[pagebreak.webp]]
