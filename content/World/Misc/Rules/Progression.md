@@ -1,3 +1,6 @@
+---
+cssclasses: customMargin, academia
+---
 ![[Rule.Progression.webp|center]]
 ## Introduction
 A system predicated on XP and leveling.
@@ -31,11 +34,11 @@ A system predicated on XP and leveling.
 | Persuasion      | 500    | 1000   | 1500   | 2000   | 2500   |
 #### Cardio Training
 
-| **Movement**        | +5ft       | +10ft      | +15ft       | +20ft            |               |
-| ------------------- | ---------- | ---------- | ----------- | ---------------- | ------------- |
-| Walking             | 750        | 1500       | 2250        | 3000             |               |
-| Swimming            | 500        | 1000       | 1500        | 2000             |               |
-| Flying*             | 750        | 1500       | 2250        | 3000             |               |
+| **Movement** | +5ft | +10ft | +15ft | +20ft |
+| ------------ | ---- | ----- | ----- | ----- |
+| Walking      | 750  | 1500  | 2250  | 3000  |
+| Swimming     | 500  | 1000  | 1500  | 2000  |
+| Flying*      | 750  | 1500  | 2250  | 3000  |
 #### Item Training
 
 | **Proficiencies**   | **+1**     | **+2**     | **+3**      | **+4**           | **+5**        |
