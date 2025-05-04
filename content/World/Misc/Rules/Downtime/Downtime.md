@@ -12,11 +12,12 @@ A Short Rest requires at least one hour of downtime and can be taken at any time
 - Metal Smithing
 - Creative outlets, writing, storytelling, music
 - Potion Making/Scrollmaking
-- Carousing - Socializing with area NPCs
+- Carousing
 - Keeping watch
-- Praying to deities
+- Praying
 - Personal grooming, hygiene upkeep (+1 charisma)
 - Atunement
+- Scouting
 
 %% Begin Waypoint %%
 - [[Cooking]]
