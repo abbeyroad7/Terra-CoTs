@@ -3,7 +3,9 @@
 During a short or long rest, players can choose to spend their downtime on various activities to pass the time and improve their character's story depth and their various skills.
 
 ## Gameplay
-If a player chooses to roll any Hit Dice during a Short Rest, they will not be able to work on activities during the rest. Players can utilize Long Rests to restore both HP and work on activities.
+Long Rests are 8 hour periods in which a player can heal fully, restore spell splots and features while also performing up to 2 hours of the various activities outlined below.
+
+A Short Rest requires at least one hour of downtime and can be taken at any time during the day. Activities cannot be worked on if any hit dice are rolled during a Short Rest.
 
 ## Activities
 - Woodworking

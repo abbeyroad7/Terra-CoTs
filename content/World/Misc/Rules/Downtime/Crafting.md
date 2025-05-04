@@ -8,6 +8,6 @@ Most craftable items will require relevant specialized tools and some may need s
 
 A suit of armor, for example, will need to be made with Smith's Tools in a forge.
 
-Complex items will require use of the [[Progression]] system.
+Refer to the Crafting Section on the [[Progression]] table.
 
 ![[pagebreak.webp]]
