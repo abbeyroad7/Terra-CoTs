@@ -7,9 +7,7 @@ aliases:
   - Quartz
   - Index
 ---
-# Welcome to the Lore. <html>
-<img class="animated-gif" style="width: 40px"; align="center"; src="https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif">
-</html>
+# Welcome to the Lore. ![test|left|40](https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif)
 
 <font size=4><b>Browse the complex histories of the peoples that reside in the world of Terra.</b></font>
  
