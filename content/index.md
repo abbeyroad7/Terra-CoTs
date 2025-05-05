@@ -7,7 +7,10 @@ aliases:
   - Quartz
   - Index
 ---
-# Welcome to the Lore.
+# Welcome to the Lore. <html>
+<img class="animated-gif" style="width: 40px"; align="center"; src="https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif">
+</html>
+
 <font size=4><b>Browse the complex histories of the peoples that reside in the world of Terra.</b></font>
  
 <a href="World/Beastiary/Beastiary.md">![[beastiary.webp|center-left|240]]</a>
@@ -21,3 +24,4 @@ aliases:
 <a href="World/Religion/Religion.md">![[religion.webp|left|240]]</a>
 <a href="World/Misc/Misc.md">![[misc.webp|left|240]]</a>
 <a href="World/Memories/Memories.md">![[memories.webp|left|240]]</a>
+
