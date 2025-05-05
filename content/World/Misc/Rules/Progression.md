@@ -4,7 +4,7 @@ cssclasses: customMargin, academia
 ![[Rule.Progression.webp|center]]
 ## Introduction
 A system predicated on XP and leveling.
-### Gameplay
+### Current Progress
 4hrs / day / every 3 sessions
 1.33hrs/session * 33 sessions
 40hrs * Lvl5 * 10 = 2000XP
