@@ -10,15 +10,9 @@ A Short Rest requires at least one hour of downtime and can be taken at any time
 
 Activities cannot be worked on if any hit dice are rolled during a Short Rest.
 
-![[Downtime-camp.webp|1024]]
+![[Downtime-camp.webp|center+pr|1024]]
 ## Activities
 Some activites will make use of the [[Progression]] System to track progress.
-
-- Keeping watch
-- Praying
-- Personal grooming, hygiene upkeep (+1 charisma)
-- Scouting
-- Shopping
 
 %% Begin Waypoint %%
 - [[Attunement]]
@@ -26,8 +20,13 @@ Some activites will make use of the [[Progression]] System to track progress.
 - [[Cooking]]
 - [[Crafting]]
 - [[Foraging]]
+- [[Grooming]]
 - [[Hunting]]
+- [[Keeping Watch]]
+- [[Praying]]
 - [[Reading]]
+- [[Scouting]]
+- [[Shopping]]
 - [[Training]]
 
 %% End Waypoint %%
