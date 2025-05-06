@@ -9,6 +9,8 @@ Long Rests are 8 hour periods in which a player can heal fully, restore spell sp
 A Short Rest requires at least one hour of downtime and can be taken at any time during the day.
 
 Activities cannot be worked on if any hit dice are rolled during a Short Rest.
+
+![[Downtime-camp.webp|1024]]
 ## Activities
 Some activites will make use of the [[Progression]] System to track progress.
 
