@@ -9,6 +9,12 @@ aliases:
 ---
 # Welcome to the Lore. ![test|40x40](https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif)
 
+![[https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif|alt-text|200]]
+
+<a href="https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif" alt="alt-text" width="200px" />
+
+<a href="test">![[https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif|left|240]]</a>
+
 <font size=4><b>Browse the complex histories of the peoples that reside in the world of Terra.</b></font>
  
 <a href="World/Beastiary/Beastiary.md">![[beastiary.webp|center-left|240]]</a>
