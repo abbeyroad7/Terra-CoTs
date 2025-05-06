@@ -8,7 +8,11 @@ Long Rests are 8 hour periods in which a player can heal fully, restore spell sp
 #### Short Rest
 A Short Rest requires at least one hour of downtime and can be taken at any time during the day.
 
-Activities cannot be worked on if any hit dice are rolled during a Short Rest.
+To accomplish an Activity during a Short Rest, players must utilize their Hit Dice pool. See more details below.
+#### Hit Dice
+Hit dice represent an overall pool of energy, vitality, and competence that can be used for many things other than simple recovery. This means that leveling up allows characters to be more competent and productive out of combat, which is especially important if the game ends up focused on politics and skill use.
+
+**Players may spend 1 Hit Dice per every 1 hour dedicated to an activity.**
 
 ![[Downtime-camp.webp|center+pr|1024]]
 ## Activities
