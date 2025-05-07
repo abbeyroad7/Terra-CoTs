@@ -14,7 +14,9 @@ Hit dice represent an overall pool of energy, vitality, and competence that can 
 
 **Players may spend 1 Hit Dice per every 1 hour dedicated to an activity.**
 
+
 ![[Downtime-camp.webp|center+pr|1024]]
+
 ## Activities
 Some activites will make use of the [[Progression]] System to track progress.
 
