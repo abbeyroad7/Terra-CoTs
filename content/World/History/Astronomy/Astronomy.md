@@ -18,7 +18,7 @@ This is the landing page for Astronomy.
 - [[Aiskhel]]
 - [[Everstream]]
 - [[Mortal Coil]]
-- [[Svalgheim]]
+- **[[Svalgheim]]**
 - [[Tangent Realms]]
 - [[Terra]]
 - [[Thelessa]]
