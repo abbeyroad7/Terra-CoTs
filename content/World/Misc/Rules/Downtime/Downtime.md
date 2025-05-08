@@ -18,7 +18,7 @@ Hit dice represent an overall pool of energy, vitality, and competence that can 
 ![[Downtime-camp.webp|center+pr|1024]]
 
 ## Activities
-Some activites will make use of the [[Progression]] System to track progress.
+Some activites will make use of the [[Progression]] System tos track progress.
 
 %% Begin Waypoint %%
 - [[Attunement]]
