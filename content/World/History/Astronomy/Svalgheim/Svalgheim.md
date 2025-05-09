@@ -1,8 +1,8 @@
 ![[Svalgheim.webp|center|768]]
 # Introduction
-Svalgheim, also referred to as the Nine Circles of Hell, house the damned souls of the multiverse.
-
 Svalgheim is the realm of the Swallowed World. [[Arilias, the One True Creator|Arilias]] used this realm to shut away all the [[Umbra]] after the formation of [[Terra]] and the [[Mortal Coil]].
+
+Commonly referred to as the Nine Circles of Hell in the Common tongue, the damned souls of the multiverse are banished to live out eternity in this realm.
 
 ## Circles of Hell
 - [[Nessus|Ninth Circle: Nessus]]
