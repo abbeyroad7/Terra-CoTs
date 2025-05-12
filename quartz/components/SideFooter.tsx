@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
 
 		<h3 style="text-align: left; width:49%; display: inline-block; color: #00FF4A; font-size: 1.1rem;">Navigation</h3>
 		<h3 style="text-align: right; width:50%;  display: inline-block; color: #00FF4A; font-size: 1.1rem;">
-			v0.57.12o
+			v0.57.12p
 		</h3>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
