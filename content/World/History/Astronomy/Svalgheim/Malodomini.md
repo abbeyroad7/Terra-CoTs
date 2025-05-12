@@ -1,5 +1,5 @@
-![[Cania.webp|center|768]]
+![[Maladomini.webp|center|640]]
 # Introduction
-Maladomini is the Circle of Greed.
+Maladomini is the Circle of Gluttony.
 
 ![[pagebreak.webp]]

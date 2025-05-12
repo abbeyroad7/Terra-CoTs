@@ -1,4 +1,4 @@
-![[Cania.webp|center|768]]
+![[Cania.webp|center|640]]
 # Introduction
 Cania is the Circle of Lust.
 

@@ -1,4 +1,4 @@
-![[Cania.webp|center|768]]
+![[Avernus.webp|center|640]]
 # Introduction
 Avernus is the Circle of Treachery.
 

@@ -1,4 +1,4 @@
-![[Nessus.webp|center|768]]
+![[Nessus.webp|center|640]]
 # Introduction
 Nessus is the Circle of Cowardice. It is a featureless plain that stretches for eternity.
 

@@ -1,4 +1,4 @@
-![[Nessus.webp|center|768]]
+![[Phlegethos.webp|center|640]]
 # Introduction
 Phlegethos is the Circle of Wrath.
 

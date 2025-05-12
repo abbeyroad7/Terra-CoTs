@@ -1,4 +1,4 @@
-![[Nessus.webp|center|768]]
+![[Minauros.webp|center|640]]
 # Introduction
 Minauros is the Circle of Provocation.
 
