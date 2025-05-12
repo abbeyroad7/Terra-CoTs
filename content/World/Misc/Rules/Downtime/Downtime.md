@@ -1,5 +1,5 @@
 ![[Rule.Downtime.webp|center]]
-## Introduction
+# Introduction
 During a short or long rest, players can choose to spend their downtime on various activities to pass the time and improve their character's various skills and background.
 
 ## Gameplay
@@ -18,7 +18,7 @@ Hit dice represent an overall pool of energy, vitality, and competence that can 
 ![[Downtime-camp.webp|center+pr|1024]]
 
 ## Activities
-Some activites will make use of the [[Progression]] System tos track progress.
+Some activites will make use of the [[Progression]] System to track progress.
 
 %% Begin Waypoint %%
 - [[Attunement]]
