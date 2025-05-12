@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
 		<h3>Next Session: Tuesday, May 13 @7:00pm CT</h3>
 
 		<h4 style="text-align: left; width:49%; display: inline-block;">Navigation</h4>
-		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.57.12d</h4>
+		<h4 style="text-align: right; width:50%;  display: inline-block;">v0.57.12e</h4>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
               <br><a href={linksSide}>{text}</a></br>
