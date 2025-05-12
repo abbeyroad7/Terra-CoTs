@@ -2,11 +2,11 @@
 cssclasses: customMargin, academia
 ---
 ![[Rule.Progression.webp|center]]
-## Introduction
+# Introduction
 A system predicated on XP and leveling.
 
 **For every 1 hour of hands-on [[training]], gain 10 XP * Level.**
-### Current Progress
+## Current Progress
 4hrs / day / every 3 sessions
 1.33hrs/session * 33 sessions
 40hrs * Lvl5 * 10 = 2000XP
