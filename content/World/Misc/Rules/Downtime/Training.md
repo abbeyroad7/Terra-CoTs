@@ -10,6 +10,13 @@ Your character can choose to train and gain improvements to certain skills and c
 Training will utilize the [[Progression]] System.
 
 Training will exclude ability modifiers, with the exception of Strength. It will instead mainly focus on Skills and movement speeds.
+#### Skill Training
+![[Progression#^3e99fe]] 
+#### Cardio Training
+![[Progression#^04c9e2]]
+#### Tool Training
+![[Progression#^e9892a]]
+
 ## Mechanics
 Training is to be used to further round out your character, not to exploit specific characteristics for your class. For balancing, skills cannot be improved past a cumulative bonus of (+5).
 

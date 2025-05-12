@@ -34,6 +34,9 @@ A system predicated on XP and leveling.
 | Intimidation    | 500    | 1000   | 1500   | 2000   | 2500   |
 | Performance     | 400    | 800    | 1200   | 1600   | 2000   |
 | Persuasion      | 500    | 1000   | 1500   | 2000   | 2500   |
+
+^3e99fe
+
 #### Cardio Training
 
 | **Movement** | +5ft | +10ft | +15ft |
@@ -41,6 +44,9 @@ A system predicated on XP and leveling.
 | Walking      | 1000 | 2000  | 3000  |
 | Swimming     | 750  | 1500  | 2250  |
 | Flying*      | 1000 | 2000  | 3000  |
+
+^04c9e2
+
 #### Item Training
 
 | **Proficiencies** | **+1** | **+2** | **+3** | **+4** | **+5** |
@@ -48,12 +54,17 @@ A system predicated on XP and leveling.
 | Weapon            | 500    | 1000   | 1500   | 2000   | 2500   |
 | Armor             | 400    | 800    | 1200   | 1600   | 2000   |
 | Tool              | 400    | 800    | 1200   | 1600   | 2000   |
+
+^e9892a
+
 #### Crafting
 
 | **Crafting**        | **Simple** | **Medium** | **Complex** | **Very Complex** | **Legendary** |
 | ------------------- | ---------- | ---------- | ----------- | ---------------- | ------------- |
 | Non-proficient      | 150        | 600        | 1250        | 2500             | 4000          |
 | Proficient w/ tools | 100        | 400        | 1000        | 2000             | 3000          |
+
+^5229a7
 
 
 ![[pagebreak.webp]]

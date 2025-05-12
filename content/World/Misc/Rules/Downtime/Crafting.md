@@ -19,4 +19,6 @@ A suit of armor, for example, will need to be made with Smith's Tools in a forge
 
 Refer to the Crafting Section on the [[Progression#Crafting|Progression]] table.
 
+![[Progression#^5229a7]]
+
 ![[pagebreak.webp]]
