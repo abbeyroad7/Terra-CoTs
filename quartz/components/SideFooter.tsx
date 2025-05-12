@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
 
 		<h4 style="text-align: left; width:49%; display: inline-block; color: #bebebe;">Navigation</h4>
 		<h4 style="text-align: right; width:50%;  display: inline-block; color: #bebebe;">
-			v0.57.12h
+			v0.57.12i
 		</h4>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
@@ -33,9 +33,10 @@ SideFooter.css = `
   margin-top: -2rem;
   margin-left: -8rem;
   line-height: 60%;
+  font-size: 1rem;
   
   h3 {
-	  line-height: 100%;
+	  line-height: 130%;
   }
   br {
 	  line-height: 60%;
