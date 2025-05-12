@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
 
 		<h3 style="text-align: left; width:49%; display: inline-block; color: #00FF4A; font-size: 1.15rem;">Navigation</h3>
 		<h3 style="text-align: right; width:50%;  display: inline-block; color: #00FF4A; font-size: 1.15rem;">
-			v0.57.13a
+			v0.57.13b
 		</h3>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
@@ -31,8 +31,7 @@ export default ((opts?: Options) => {
 SideFooter.css = `
 .side-footer {
   margin-top: -2rem;
-  margin-left: 8rem;
-  margin-right: 5rem;
+  margin-left: -8rem;
   line-height: 60%;
   
   h3 {
