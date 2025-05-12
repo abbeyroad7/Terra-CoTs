@@ -62,7 +62,7 @@ export default ((opts?: GraphOptions) => {
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
-        <h2>{i18n(cfg.locale).components.graph.title}</h2>
+        <h2 style="font-size: 1.2rem;>{i18n(cfg.locale).components.graph.title}</h2>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <svg

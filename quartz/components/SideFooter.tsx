@@ -14,11 +14,11 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h3 style="color: #bebebe; font-size: 1.5rem;">Next Session: Tuesday, May 13 @7:00pm CT</h3>
+		<h3 style="color: #bebebe; font-size: 1.4rem;">Next Session: Tuesday, May 13 @7:00pm CT</h3>
 
-		<h3 style="text-align: left; width:49%; display: inline-block; color: #00FF4A; font-size: 1.2rem;">Navigation</h3>
-		<h3 style="text-align: right; width:50%;  display: inline-block; color: #00FF4A; font-size: 1.2rem;">
-			v0.57.12r
+		<h3 style="text-align: left; width:49%; display: inline-block; color: #00FF4A; font-size: 1.15rem;">Navigation</h3>
+		<h3 style="text-align: right; width:50%;  display: inline-block; color: #00FF4A; font-size: 1.15rem;">
+			v0.57.12s
 		</h3>
 		
           {Object.entries(linksSide).map(([text, linksSide]) => (
