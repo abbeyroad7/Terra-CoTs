@@ -48,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
       "-Religion": "https://abbeyroad7.github.io/Terra-CoTs/World/Religion/Religion",
       "-Misc": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Misc",
       "-Memories": "https://abbeyroad7.github.io/Terra-CoTs/World/Memories/Memories",
-	  "",
+	  "":, "",
       "-Downtime": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Rules/Downtime/Downtime",
       "-Progression": "https://abbeyroad7.github.io/Terra-CoTs/World/Misc/Rules/Progression",
     },
