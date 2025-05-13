@@ -1,5 +1,5 @@
+- 2025-05-13 18:56 · [[ExhaustionTableExcal]]
 - 2025-05-13 18:50 · [[ExhaustionTable]]
-- 2025-05-13 18:49 · [[ExhaustionTableExcal]]
 - 2025-05-13 18:07 · [[Rules]]
 - 2025-05-13 09:02 · [[Terra]]
 - 2025-05-13 08:56 · [[Multiclassing]]
