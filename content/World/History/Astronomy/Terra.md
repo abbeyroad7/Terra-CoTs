@@ -11,7 +11,7 @@ Magic is common in tribal lands to the east. The previous age of the world is ma
 
 # Climate
 
-![[Terra-climate.webp|center|640]]
+![[Terra-climate.webp|center|800]]
 
 Lands above the drawn blue line are the Global North and experience harsher winters, similar to Earth. Middle region is mostly temperate. Under the red line is the Global South where it is warmer. Deserts and tropical wetspots are the common geography under this latitude.
 
