@@ -2,7 +2,7 @@
 status: in progress
 ---
 ![[Session 33a.webp|left|512]]
-![[Session 33b.webp|left|540]]
+![[Session 33b.webp|left|640]]
 ![[Session 33c.webp|left|512]]
 ![[Session 33d.webp|left|512]]
 ![[Session 33e.webp|left|512]]
