@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[Downtime]]**
-- [[DND/Quartz/World/Misc/Rules/Exhaustion]]
+- [[Exhaustion]]
 - [[Multiclassing]]
 - [[Progression]]
 
