@@ -1,4 +1,4 @@
-- 2025-05-21 16:11 · [[Arilias, the One True Creator]]
+- 2025-05-21 16:15 · [[Arilias, the One True Creator]]
 - 2025-05-21 16:06 · [[Vinara, the Goddess of Grapes]]
 - 2025-05-21 16:05 · [[Thalos, God of Order]]
 - 2025-05-21 16:05 · [[Serephina, Goddess of Luck and Fortune]]
