@@ -20,8 +20,9 @@ Training will exclude ability modifiers, with the exception of Strength. It will
 ## Mechanics
 Training is to be used to further round out your character, not to exploit specific characteristics for your class. For balancing, skills cannot be improved past a cumulative bonus of (+5).
 
-**For every 1 hour of hands-on training, gain 10 XP * Level.**
+![[ProgressionTooltip.webp|center]]
 
+**For every 1 hour of hands-on training, gain 10 XP * Level.**
 ### Reading
 Some Skills like History and Religion can also be improved on with our [[Reading]] system.
 

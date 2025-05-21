@@ -5,6 +5,8 @@ cssclasses: customMargin, academia
 # Introduction
 A system predicated on XP and leveling.
 
+![[ProgressionTooltip.webp|center]]
+
 **For every 1 hour of hands-on [[training]], gain 10 XP * Level.**
 ## Current Progress
 4hrs / day / every 3 sessions

@@ -3,6 +3,7 @@ aliases:
   - Scion
 ---
 # Introduction
+**Alignment:** Chaotic Evil
 **Domains:** Death, War
 **Symbol:** A human-like ouroboros
 

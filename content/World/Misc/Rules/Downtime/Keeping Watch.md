@@ -4,4 +4,6 @@ During a rest, players may opt to stay alert and keep watch over the camp during
 ## Gameplay
 Roll a Perception check to gauge the effectiveness of your watch.
 
+![[WatchTooltip.webp|center]]
+
 ![[pagebreak.webp]]

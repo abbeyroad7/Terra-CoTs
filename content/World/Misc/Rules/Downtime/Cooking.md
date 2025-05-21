@@ -11,6 +11,8 @@ Recipes can be cooked over a fire during a short or long rest. The amount of por
 
 **At the end of the cooking time, you must make a Survival check, adding your proficiency bonus if you are proficient with Cooking utensils.**
 
+![[CookingTooltip1.webp|center]]
+
 **Recipe DCs that are unknown are calculated based on the complexity of the dishes as well as the durability of the ingredients being handled.**
 - For example, a simple ham-sandwich may require a DC3 to prepare, but an Elvish herbed duck-cutlet may require a DC16 to prepare adequately.
 
@@ -33,11 +35,13 @@ In addition, recipes may be procured through:
 ## From Memory
 If you've made a recipe at least 3 times, it becomes known to your character and you can recreate it with success every time, no roll needed.
 
+![[CookingTooltip2.webp|center]]
+
 Once a recipe is known, a character knows the full description of a recipe including the Failure Effect.
 ## Experimentation
 In order to teach yourself a recipe, you must spend the full Cooking time experimenting to the creation of a recipe. During this time, you must have access to fresh samples of the ingredients as well as a source of heat or fire.
 
-At the end of the Cooking time, you must succeed a Cooking check , or suffer the failure effect of the recipe, scaling in accordance to your roll.
+At the end of the Cooking time, you must succeed a Cooking check, or suffer the failure effect of the recipe, scaling in accordance to your roll.
 
 Once a recipe is completed, the ingredients are consumed.
 # Culinary Effects

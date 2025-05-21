@@ -3,6 +3,7 @@ aliases:
   - Serephina
 ---
 # Introduction
+**Alignment:** Chaotic Good
 **Domains:** Luck, Travel
 **Symbol:** A set of dice adorned with horseshoes
 

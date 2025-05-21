@@ -11,7 +11,7 @@ The following activities fall under the Crafting category:
 - Potion Making
 - Scroll Making
 ### Gameplay
-Describe the item you are choosing to create. Something with a higher complexity will require a higher DC.
+Describe the item you are choosing to create.
 
 Most craftable items will require relevant specialized tools and some may need specialized environments.
 

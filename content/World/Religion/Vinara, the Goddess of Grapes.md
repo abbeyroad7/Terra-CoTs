@@ -3,6 +3,7 @@ aliases:
   - Vinara
 ---
 # Introduction
+**Alignment:** Neutral Good
 **Domains:** Nature, Life
 **Symbol:** A cluster of grapes intertwined with grapevines
 

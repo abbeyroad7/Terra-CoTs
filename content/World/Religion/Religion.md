@@ -12,6 +12,8 @@ _templateName: ""
 sticker: emoji//271d-fe0f
 ---
 This is the landing page for the Religions page.
+
+Refer to [5e.tools](https://5e.tools/deities.html) for a more comprehensive list of all Deities.
 ![[religion.webp|center-left]]
 
 %% Begin Waypoint %%

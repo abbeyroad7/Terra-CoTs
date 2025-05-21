@@ -3,6 +3,7 @@ aliases:
   - Thalos
 ---
 # Introduction
+**Alignment:** Lawful Neutral
 **Domains:** Law, Protection
 **Symbol:** A golden scale balanced perfectly on a pedestal, flanked by twin pillars representing order and stability
 

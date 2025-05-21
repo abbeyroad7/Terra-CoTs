@@ -3,6 +3,7 @@ aliases:
   - Leika
 ---
 # Introduction
+**Alignment:** Chaotic Neutral
 **Domains**: Trickery, Deceit
 **Symbol**: A rams head
 
