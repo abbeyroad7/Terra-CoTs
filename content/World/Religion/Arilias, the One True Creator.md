@@ -5,7 +5,7 @@ aliases:
   - Moose God
 ---
 # Introduction
-![[Arilias.webp|center+right]]
+![[Arilias.webp]]
 ##### **Alignment:** True Neutral
 ##### **Domains:** Creation, Knowledge
 ##### **Symbol:** A majestic moose with antlers spread wide, surrounded by swirling celestial energy.
