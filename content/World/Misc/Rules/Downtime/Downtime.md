@@ -12,6 +12,8 @@ To accomplish an Activity during a Short Rest, players must utilize their Hit Di
 #### Hit Dice
 Hit dice represent an overall pool of energy, vitality, and competence that can be used for many things other than simple recovery.
 
+![[DowntimeTooltip.webp]]
+
 **Players may spend 1 Hit Dice per every 1 hour dedicated to an activity.**
 
 

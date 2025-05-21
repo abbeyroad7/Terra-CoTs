@@ -6,7 +6,7 @@ Players can choose to leave their camp during their [[Downtime]] and investigate
 ## Gameplay
 Roll an Investigation check to investigate the path ahead. If an encounter is discovered, you may need to roll an additional Stealth check to pass detection.
 
-![[ScoutingTooltip.webp|center]]
+![[ScoutingTooltip.webp]]
 
 
 ![[pagebreak.webp]]

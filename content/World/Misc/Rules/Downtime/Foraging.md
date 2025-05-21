@@ -5,6 +5,6 @@ Players can search the lands for native vegetables and spices that can be used t
 ## Gameplay
 Roll a Nature check to forage for useable ingredients in your surrounding area.
 
-![[ForagingTooltip.webp|center]]
+![[ForagingTooltip.webp]]
 
 ![[pagebreak.webp]]

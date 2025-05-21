@@ -7,6 +7,6 @@ For example, the rarity of certain meats could prove to make certain dishes into
 ## Gameplay
 Roll a Survival check to hunt for wild game in the area and if successful, roll a Nature check to extract animal parts from the hunt.
 
-![[HuntingTooltip.webp|center]]
+![[HuntingTooltip.webp]]
 
 ![[pagebreak.webp]]

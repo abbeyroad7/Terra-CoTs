@@ -9,7 +9,7 @@ Reading books found across Terra will enlighten players to different topics that
 ### Gameplay
 Books can be read during a short or long rest and are completed based on the [[Progression]] system predicated on a character's Intelligence.
 
-![[ReadingTooltip.webp|center]]
+![[ReadingTooltip.webp]]
 
 Each hour a character is immersed into a book, they will roll an Intelligence check and multiply the value by the time spent reading the book to calculate their progress.
 
@@ -21,11 +21,11 @@ As a counterbalance to reading bonuses, effects gained are temporary based on a 
 
 Characters are able to expand their memory by improving their Intelligence stat. **For each +1 to their Intelligence, a character will receive an additional Memory Slot.**
 
-![[ReadingTooltip2.webp|center]]
+![[ReadingTooltip2.webp]]
 
 **Books that have fallen out of memory will lose their related bonuses, but can be reread with Advantage when rolling the Intelligence check.**
 
-![[ReadingTooltip3.webp|center]]
+![[ReadingTooltip3.webp]]
 
 Players will be responsible for remembering which books their characters have read, should they fall out of memory.
 

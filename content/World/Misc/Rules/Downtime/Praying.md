@@ -6,7 +6,7 @@
 ## Gameplay
 Give a prayer in character and roll a Religion check to see if your prayers reach the intended deity.
 
-![[PrayingTooltip.webp|center]]
+![[PrayingTooltip.webp]]
 
 In some cases, Gods and Goddesses may grant a boon or reveal helpful information to their followers.
 
