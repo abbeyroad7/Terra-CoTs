@@ -2,6 +2,7 @@
 aliases:
   - Thalos
 ---
+![[Thalos.webp|right|512]]
 # Introduction
 ##### **Alignment:** Lawful Neutral
 ##### **Domains:** Law, Protection

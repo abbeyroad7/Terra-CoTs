@@ -2,6 +2,7 @@
 aliases:
   - Scion
 ---
+![[ScionGod.webp|right|512]]
 # Introduction
 ##### **Alignment:** Chaotic Evil
 ##### **Domains:** Death, War

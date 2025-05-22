@@ -2,6 +2,7 @@
 aliases:
   - Vinara
 ---
+![[Vinara.webp|right|512]]
 # Introduction
 ##### **Alignment:** Neutral Good
 ##### **Domains:** Nature, Life

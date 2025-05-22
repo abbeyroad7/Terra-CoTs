@@ -2,6 +2,7 @@
 aliases:
   - Serephina
 ---
+![[Serephina.webp|right|512]]
 # Introduction
 ##### **Alignment:** Chaotic Good
 ##### **Domains:** Luck, Travel

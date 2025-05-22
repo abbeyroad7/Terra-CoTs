@@ -2,8 +2,8 @@
 aliases:
   - Leika
 ---
+![[Leika.webp|right|512]]
 # Introduction
-![[Leika.webp|512]]
 ##### **Alignment**: Chaotic Neutral
 ##### **Domains**: Trickery, Deceit
 ##### **Symbol**: A rams head
