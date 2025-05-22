@@ -1,3 +1,4 @@
+- 2025-05-21 19:49 · [[Getting Started]]
 - 2025-05-21 19:41 · [[Vinara, the Goddess of Grapes]]
 - 2025-05-21 19:41 · [[Thalos, God of Order]]
 - 2025-05-21 19:39 · [[Serephina, Goddess of Luck and Fortune]]
@@ -22,4 +23,3 @@
 - 2025-05-19 10:27 · [[Goobert]]
 - 2025-05-15 14:30 · [[Multiclassing]]
 - 2025-05-15 14:30 · [[ExhaustionTable]]
-- 2025-05-15 14:30 · [[ExhaustionTableExcal]]
