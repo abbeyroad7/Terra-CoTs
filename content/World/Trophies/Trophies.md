@@ -1,4 +1,4 @@
 ---
 sticker: emoji//1f3c5
 ---
-![[Alligator.png|128]] ![[Aquatic Troll.webp|128]] ![[Bear-Brown-Standing.png|128]] ![[BeetleSwarm.webp|128]] ![[Cloudhopper.webp|128]] ![[Gomitoad.webp|128]] ![[meazel.webp|128]] ![[millitaur.webp|128]] ![[Monstrosity.webp|128]] ![[pombero.webp|128]] ![[Skulk.webp|128]] ![[Skunk.png|128]] ![[Trawlauth.webp|128]]
+![[Alligator.png|256]] ![[Aquatic Troll.webp|256]] ![[Bear-Brown-Standing.png|256]] ![[BeetleSwarm.webp|256]] ![[Cloudhopper.webp|256]] ![[Gomitoad.webp|256]] ![[meazel.webp|256]] ![[millitaur.webp|256]] ![[Monstrosity.webp|256]] ![[pombero.webp|256]] ![[Skulk.webp|256]] ![[Skunk.png|256]] ![[Trawlauth.webp|256]]
