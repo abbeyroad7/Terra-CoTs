@@ -1,8 +1,15 @@
+.List.bat
+.List.txt
+Alligator.png
 Aquatic Troll.webp
+Bear-Brown-Standing.png
+BeetleSwarm.webp
 Cloudhopper.webp
 Gomitoad.webp
 meazel.webp
 millitaur.webp
+Monstrosity.webp
 pombero.webp
 Skulk.webp
+Skunk.png
 Trawlauth.webp
