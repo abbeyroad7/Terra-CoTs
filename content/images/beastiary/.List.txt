@@ -1,15 +1,34 @@
 .List.bat
 .List.txt
+Acoloyte1.webp
 Alligator.png
+Anato.webp
 Aquatic Troll.webp
+Bardier.webp
 Bear-Brown-Standing.png
 BeetleSwarm.webp
-Cloudhopper.webp
-Gomitoad.webp
+Crossbow.pdn
+Durgan Ironhealm.webp
+Flail.pdn
+Gelugon1.webp
+Gelugon2.webp
+Goblin1.webp
+Goblin3.webp
+John of Mair.webp
+Judas.webp
+Mathoe Yardley.webp
+Maya Myervs.webp
 meazel.webp
 millitaur.webp
 Monstrosity.webp
+Pike.pdn
 pombero.webp
+Raven Moonwhisper.webp
+Sam Neeps.webp
 Skulk.webp
-Skunk.png
+SkullSpider.webp
+Sorcerer.webp
+TetheredHusk.webp
 Trawlauth.webp
+UndeadTree.webp
+UndeadTree2.webp
