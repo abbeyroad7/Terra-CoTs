@@ -1,4 +1,5 @@
-- 2025-06-10 14:25 · [[Session 34]]
+- 2025-06-10 14:56 · [[Player Death]]
+- 2025-06-10 14:51 · [[Session 34]]
 - 2025-06-10 14:24 · [[Memories]]
 - 2025-05-29 10:12 · [[ExhaustionTableExcal]]
 - 2025-05-29 10:12 · [[ExhaustionTable]]
@@ -22,4 +23,3 @@
 - 2025-05-21 15:58 · [[Downtime]]
 - 2025-05-21 15:52 · [[Progression]]
 - 2025-05-21 15:47 · [[Crafting]]
-- 2025-05-21 13:48 · [[Renroc Regalbrook]]
