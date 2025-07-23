@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     const linksSide = opts?.linksSide ?? []
     return (
       <sidefooter class={classNames(displayClass, "side-footer")}>
-		<h3 style="color: #bebebe; font-size: 1.4rem;">Next Session: Tuesday, July 22 @7:00pm CT</h3>
+		<h3 style="color: #bebebe; font-size: 1.4rem;">Next Session: Tuesday, August 5 @7:00pm CT</h3>
 
 		<h3 style="text-align: left; width:49%; display: inline-block; color: #00FF4A; font-size: 1.15rem;">Navigation</h3>
 		<h3 style="text-align: right; width:50%;  display: inline-block; color: #00FF4A; font-size: 1.15rem;">
